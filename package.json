@@ -1,0 +1,29 @@
+{
+  "name": "debug-smiles",
+  "version": "1.0.0",
+  "description": "debug-smiles is a fun and uplifting npm module designed to brighten your coding sessions. When you're feeling frustrated or stuck, this package offers a burst of motivation and humor with random motivational quotes and amusing ASCII art. Perfect for developers who need a quick pick-me-up while coding!",
+  "main": "index.js",
+  "bin": {
+    "debug-smiles": "./index.js" 
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P4N1-C/debug-smiles.git"
+  },
+  "keywords": [
+    "npm",
+    "quotes",
+    "ascii-art",
+    "motivation",
+    "developer-tools"
+  ],
+  "author": "Rudraksha",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/P4N1-C/debug-smiles/issues"
+  },
+  "homepage": "https://github.com/P4N1-C/debug-smiles#readme"
+}
